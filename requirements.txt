@@ -1,6 +1,1 @@
-psycopg2==2.8.4
-Django==2.2
-django-crispy-forms
-django-mathfilters==0.4.0
-gunicorn
-django-heroku
+Django==2.2.4
